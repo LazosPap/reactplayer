@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#Live Test for the project: https://lazospap.github.io/reactplayer
+# Live Test for the project: https://lazospap.github.io/reactplayer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
